@@ -37,21 +37,40 @@
   }
 }
 
+.navbar {
+  background-color: #282c34;
+}
+
+.nav-item {
+  background-color: #282c34;
+}
+
+.navbar span{
+  margin: 15px;
+}
+
+.navName {
+  font-size: 30px;
+  color: white;
+  background-color: #282c34;
+}
+
 .logos {
   width: 50px;
 }
 
 .footer {
-  /* background-color: peachpuff; */
-  margin: 10px;
-  margin-top: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
 }
 
 .footerLogos {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   justify-content: space-around;
+  position: relative;
 }
 
 .profilePic {
@@ -62,6 +81,7 @@
 
 .aboutBio {
   margin: 10px;
+  margin-left: 20px;
   font-size: 17px;
 }
 
@@ -77,4 +97,57 @@
   margin: 10px;
   margin-left: 40px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.portfolioPage h1 {
+  margin: 10px;
+  font-size: 50px;
+}
+
+.card {
+  width: 50%;
+  margin: 10px;
+  float: left;
+  align-items: center;
+  margin-left: 200px;
+}
+
+.contactPage {
+  margin: 15px;
+}
+
+.submitBtn {
+  margin: 10px;
+  background-color: rgb(32, 112, 216);
+  color: white;
+}
+
+.resumePage {
+  margin: 10px;
+}
+
+.resumePage h1 {
+  margin: 10px;
+  font-size: 50px;
+}
+
+.downloadRes {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.resumePage h3 {
+  margin-left: 15px;
+  margin-top: 15px;
+  text-decoration: underline;
+  font-size: 35px;
+}
+
+.resumePage ul {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+* {
+  background-color: bisque;
 }
