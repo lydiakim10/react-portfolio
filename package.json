@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://github.com/lydiakim10/react-portfolio",
   "eslintConfig": {
     "extends": [
       "react-app",
