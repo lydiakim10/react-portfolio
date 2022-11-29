@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lydiakim10/react-portfolio/static/css/main.af9568f0.css",
+    "main.js": "/lydiakim10/react-portfolio/static/js/main.b4e9b89e.js",
+    "static/media/profile-pic.png": "/lydiakim10/react-portfolio/static/media/profile-pic.0865b114970ecc368982.png",
+    "static/media/resume.png": "/lydiakim10/react-portfolio/static/media/resume.cced0652b57545c219bb.png",
+    "static/media/instagram.png": "/lydiakim10/react-portfolio/static/media/instagram.34ff56d419650c2dadb5.png",
+    "static/media/notetaker.png": "/lydiakim10/react-portfolio/static/media/notetaker.6b2cdffdd116738ef041.png",
+    "static/media/pokemon.png": "/lydiakim10/react-portfolio/static/media/pokemon.a4a49d7a315b725de60c.png",
+    "index.html": "/lydiakim10/react-portfolio/index.html",
+    "main.af9568f0.css.map": "/lydiakim10/react-portfolio/static/css/main.af9568f0.css.map",
+    "main.b4e9b89e.js.map": "/lydiakim10/react-portfolio/static/js/main.b4e9b89e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9568f0.css",
+    "static/js/main.b4e9b89e.js"
+  ]
+}
