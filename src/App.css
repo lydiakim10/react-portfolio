@@ -104,6 +104,22 @@
   font-size: 50px;
 }
 
+.portfolioPage {
+  background-color: white;
+}
+
+.cardPic {
+  background-color: white;
+}
+
+.card-body {
+  background-color: white;
+}
+
+.card-text {
+  background-color: white;
+}
+
 .card {
   width: 50%;
   margin: 10px;
